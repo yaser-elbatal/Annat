@@ -36,7 +36,7 @@
     "jodit-react": "^1.0.26",
     "lodash": "^4.17.15",
     "mdbreact": "^4.22.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "rc-collapse": "^1.11.7",
     "react": "^16.11.0",
